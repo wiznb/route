@@ -10,6 +10,8 @@ root@debian-11-change:~# bash route.sh
 
 请输入你的选择: 
 
+注意：里面的网卡及IP等需根据自己情况修改
+
 ```
 apt install -y jq
 wget https://raw.githubusercontent.com/wiznb/route/refs/heads/main/route.sh && chmod +x route.sh
